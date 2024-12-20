@@ -3,5 +3,5 @@
 
 #include listed
 !.gitignore
-!binary_search.java
+!BinarySearch.java
 !binary_search.py
